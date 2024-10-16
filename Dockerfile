@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk21:alpine-jre
+FROM openjdk21:alpine-jre
 
 EXPOSE 8080
 
